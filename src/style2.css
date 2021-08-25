@@ -24,6 +24,10 @@ h2{
 dt{
     font-size: 16px;
     font-weight: 900;
+
+}
+dt::after{
+    content: ", ";
 }
 
 #main {
