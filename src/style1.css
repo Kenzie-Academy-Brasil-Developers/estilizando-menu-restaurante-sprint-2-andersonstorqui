@@ -9,7 +9,6 @@ nav {
 body{
     background-image: url(./img/map-bg.jpg);    
     font-family: Lato, sans-serif;
-    font-size: 100%;
 }
 
 #main {
@@ -72,5 +71,6 @@ footer{
 }
 
 dt{
+    font-size: 20px;
     font-weight: bold;
 }
