@@ -37,7 +37,7 @@ section {
 /* Show each of the section headings of the menu (e.g. "Starters") in small caps, colored #6d4c41. */
 .sub-titulo {
     margin: 0;
-    font-size: 25px;
+    font-size: 20px;
     font-weight: bold;
     color: #6d4c41;
     font-variant: small-caps;
